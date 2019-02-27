@@ -26,6 +26,6 @@ spring:
 
 env: dev
 
-config: 
+people: 
   name: tantan
   age: 99
