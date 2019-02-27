@@ -5,11 +5,11 @@ eureka:
     service-url:
       defaultZone: http://192.168.193.132:8761/eureka
   instance:
-    hostname: my-use
+    hostname: mq-use
 
 spring:
   application:
-    name: my-use
+    name: mq-use
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
