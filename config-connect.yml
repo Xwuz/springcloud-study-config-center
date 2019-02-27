@@ -27,5 +27,5 @@ spring:
 env: dev
 
 people: 
-  name: tantanzong
+  name: tantanzong---2
   age: 99
