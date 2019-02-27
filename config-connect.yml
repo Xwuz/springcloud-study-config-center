@@ -25,3 +25,7 @@ spring:
     virtual-host: /
 
 env: dev
+
+config: 
+  name: tantan
+  age: 99
