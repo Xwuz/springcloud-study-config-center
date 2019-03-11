@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c30defd4-5bab-4df8-8a09-daaf40b41839" name="Default" comment="[ADD] 项目代码" />
+    <ignored path="$PROJECT_DIR$/eureka/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/product-service/target/" />
+    <ignored path="$PROJECT_DIR$/order/target/" />
+    <ignored path="$PROJECT_DIR$/order-2/target/" />
+    <ignored path="$PROJECT_DIR$/order-v2/target/" />
+    <ignored path="$PROJECT_DIR$/config-center/target/" />
+    <ignored path="$PROJECT_DIR$/config-repo/target/" />
+    <ignored path="$PROJECT_DIR$/mq-use/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config-repo/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="258">
+                <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="44" selection-start-line="44" selection-end-line="51" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mq-use/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="52" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>serviceUrl</find>
+      <find>assertt</find>
+      <find>LoadBalancedRetryFactory</find>
+      <find>LoadBalance</find>
+      <find>productInfo.getProductStock() - p.getProductQuantity()</find>
+      <find>zero</find>
+      <find>OrderMasterRepository</find>
+      <find>masterRepository</find>
+      <find>imo</find>
+      <find>.map</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/order-v2/src/test/java/com/demo/spring/orderv2/repository/OrderDetailRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/vo/ResultVO.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/util/ResultUtil.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/dto/OrderDTO.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/exception/OrderException.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/converter/OrderForm2OrderDTOConverter.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/controller/ClientController.java" />
+        <option value="$PROJECT_DIR$/product-service/src/test/java/com/demo/spring/productservice/repository/ProductInfoRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/dataobject/ProductInfo.java" />
+        <option value="$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/dto/CartDTO.java" />
+        <option value="$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/service/ProductInfoService.java" />
+        <option value="$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/repository/ProductInfoRepository.java" />
+        <option value="$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/exception/ProductException.java" />
+        <option value="$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/service/impl/ProductInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/client/ProductClient.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/dataobject/CartDTO.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/controller/ClientController2.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/product-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/ProductServiceApplication.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/resources/application-t.yml" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/TestCon.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/controller/TestCon.java" />
+        <option value="$PROJECT_DIR$/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/product-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-center/src/main/java/com/demo/configcenter/ConfigCenterApplication.java" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/OrderV2Application.java" />
+        <option value="$PROJECT_DIR$/order-v2/pom.xml" />
+        <option value="$PROJECT_DIR$/order-v2/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/resources/application-y.yml" />
+        <option value="$PROJECT_DIR$/config-center/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/demo/spring/eurekaclient/EurekaClientApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/demo/spring/eurekaclient/config/PeopleConfig.java" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/demo/spring/eurekaclient/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/config-center/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mq-use/src/main/java/com/demo/mquse/MqUseApplication.java" />
+        <option value="$PROJECT_DIR$/mq-use/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-use/src/main/resources/bootstrap.yml" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/mq-use/src/main/java/com/demo/mquse/message/MqReceiver.java" />
+        <option value="$PROJECT_DIR$/mq-use/src/test/java/com/demo/mquse/message/MqReceiverTest.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/demo/spring/order/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/config-repo/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\ruanjian\apache-maven-3.5.4\repository" />
+        <option name="mavenHome" value="D:/ruanjian/apache-maven-3.5.4/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\ruanjian\apache-maven-3.5.4\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mq-use" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="560" />
+    <option name="y" value="58" />
+    <option name="width" value="688" />
+    <option name="height" value="568" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="OrderServiceImpl&#9;FILE&#9;file://D:/workspace/IntelliJIDEAProjects_2/hand-study/MicroService/spring-cloud-imooc-demo/order-v2/src/main/java/com/demo/spring/orderv2/service/impl/OrderServiceImpl.java&#10;big&#9;FILE&#9;jar://D:/ruanjian/JDK/jdk/src.zip!/java/math/BigDecimal.java&#10;OrderMasterRepositoryTest&#9;FILE&#9;file://D:/workspace/IntelliJIDEAProjects_2/hand-study/MicroService/spring-cloud-imooc-demo/order/src/test/java/com/demo/spring/order/repository/OrderMasterRepositoryTest.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.demo.mquse.message" />
+      <recent name="com.demo.spring.orderv2.repository" />
+      <recent name="com.demo.spring.order.repository" />
+      <recent name="com.demo.spring.productservice.service" />
+      <recent name="com.demo.spring.productservice.repository" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.spring.orderv2.dataobject" />
+      <recent name="com.demo.spring.order.converter" />
+      <recent name="com.demo.spring.order.exception" />
+      <recent name="com.demo.spring.order.service.impl" />
+      <recent name="com.demo.spring.productservice.vo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.spring.orderv2.dataobject" />
+      <recent name="com.demo.spring.orderv2.controller" />
+      <recent name="com.demo.spring.orderv2.client" />
+      <recent name="com.demo.spring.orderv2.converter" />
+      <recent name="com.demo.spring.orderv2.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\IntelliJIDEAProjects_2\hand-study\MicroService\spring-cloud-imooc-demo\order-v2\src\main\java\com\demo\spring\orderv2" />
+      <recent name="D:\workspace\IntelliJIDEAProjects_2\hand-study\MicroService\spring-cloud-imooc-demo\order\src\test\java\com\demo\spring\order" />
+      <recent name="D:\workspace\IntelliJIDEAProjects_2\hand-study\MicroService\spring-cloud-imooc-demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MqReceiverTest.sendOrder">
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="ConfigCenterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.configcenter.ConfigCenterApplication" />
+      <module name="config-center" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.configcenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqReceiverTest.sendMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mq-use" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.mquse.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.mquse.message" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.mquse.message.MqReceiverTest" />
+      <option name="METHOD_NAME" value="sendMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqReceiverTest.sendOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mq-use" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.mquse.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.mquse.message" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.mquse.message.MqReceiverTest" />
+      <option name="METHOD_NAME" value="sendOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.configcenter.ConfigCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.spring.eurekaclient.EurekaClientApplication" />
+      <option name="DEBUG_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.spring.eureka.EurekaApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8761" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.spring.eureka.EurekaApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8762" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.spring.eureka.EurekaApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8763" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqUseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mq-use" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.mquse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.mquse.MqUseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.spring.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderV2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-v2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.spring.orderv2.OrderV2Application" />
+      <option name="DEBUG_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.spring.productservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.spring.productservice.ProductServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConfigCenterApplication" />
+      <item itemvalue="JUnit.MqReceiverTest.sendMessage" />
+      <item itemvalue="JUnit.MqReceiverTest.sendOrder" />
+      <item itemvalue="Spring Boot.EurekaApplication1" />
+      <item itemvalue="Spring Boot.EurekaApplication2" />
+      <item itemvalue="Spring Boot.EurekaApplication3" />
+      <item itemvalue="Spring Boot.OrderV2Application" />
+      <item itemvalue="Spring Boot.ConfigCenterApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.ConfigTestApplication" />
+      <item itemvalue="Spring Boot.ProductServiceApplication" />
+      <item itemvalue="Spring Boot.MqUseApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MqReceiverTest.sendOrder" />
+        <item itemvalue="Spring Boot.MqUseApplication" />
+        <item itemvalue="JUnit.MqReceiverTest.sendMessage" />
+        <item itemvalue="Spring Boot.ProductServiceApplication" />
+        <item itemvalue="Application.ConfigCenterApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\dyq\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c30defd4-5bab-4df8-8a09-daaf40b41839" name="Default" comment="" />
+      <created>1548311016176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548311016176</updated>
+      <workItem from="1548311026920" duration="14800000" />
+      <workItem from="1548380028989" duration="788000" />
+      <workItem from="1548380867859" duration="21199000" />
+      <workItem from="1548499338909" duration="123000" />
+      <workItem from="1548575054198" duration="639000" />
+      <workItem from="1550712781903" duration="8064000" />
+      <workItem from="1550814120324" duration="6219000" />
+      <workItem from="1550820790585" duration="196000" />
+      <workItem from="1550821525803" duration="3607000" />
+      <workItem from="1551062892745" duration="20534000" />
+      <workItem from="1551144419346" duration="21017000" />
+      <workItem from="1551248263079" duration="15983000" />
+      <workItem from="1551332773515" duration="6766000" />
+      <workItem from="1552305273330" duration="1417000" />
+    </task>
+    <task id="LOCAL-00001" summary="[ADD] 项目代码">
+      <created>1552305419954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552305419954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OrderMasterRepositoryTest_testSave_(1) - 2019.02.22 at 15h 05m 58s.xml">
+      <configuration name="OrderMasterRepositoryTest.testSave (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderDetailRepositoryTest_testSave_(1) - 2019.02.22 at 15h 08m 32s.xml">
+      <configuration name="OrderDetailRepositoryTest.testSave (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductInfoRepositoryTest_findByProductIdIn - 2019.02.25 at 11h 24m 15s.xml">
+      <configuration name="ProductInfoRepositoryTest.findByProductIdIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductInfoRepositoryTest_findByProductIdIn - 2019.02.25 at 11h 25m 50s.xml">
+      <configuration name="ProductInfoRepositoryTest.findByProductIdIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MqReceiverTest_sendMessage - 2019.02.27 at 17h 56m 41s.xml">
+      <configuration name="MqReceiverTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MqReceiverTest_sendMessage - 2019.02.27 at 17h 58m 01s.xml">
+      <configuration name="MqReceiverTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MqReceiverTest_sendMessage - 2019.02.27 at 19h 16m 34s.xml">
+      <configuration name="MqReceiverTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MqReceiverTest_sendMessage - 2019.02.27 at 19h 58m 05s.xml">
+      <configuration name="MqReceiverTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MqReceiverTest_sendMessage - 2019.02.27 at 20h 09m 23s.xml">
+      <configuration name="MqReceiverTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MqReceiverTest_sendOrder - 2019.02.27 at 20h 19m 15s.xml">
+      <configuration name="MqReceiverTest.sendOrder" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121352000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25113463" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.5539216" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.11601307" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32952693" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41503268" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.46972176" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.28711256" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32952693" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.50075644" side_tool="true" weight="0.39967373" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="17" />
+      <window_info anchor="bottom" id="Docker" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="19" weight="0.32843137" />
+      <window_info anchor="bottom" id="Tail" order="20" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.39334342" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23903178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.3344209" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32952693" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41598696" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014641" side_tool="true" weight="0.5464567" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.28711256" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32952693" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.50075644" side_tool="true" weight="0.39967373" />
+      <window_info anchor="bottom" id="Docker" order="17" />
+      <window_info anchor="bottom" id="Problems" order="18" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="19" />
+      <window_info anchor="bottom" id="Tail" order="20" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.39334342" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:\workspace\IntelliJIDEAProjects_2\hand-study\MicroService\spring-cloud-imooc-demo\config-repo" />
+    </ignored-roots>
+    <MESSAGE value="[ADD] 项目代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 项目代码" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/dto/CartDTO.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/client/ProductClient.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/dataobject/CartDTO.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/controller/ClientController2.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/form/OrderForm.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/dataobject/OrderDetail.java" />
+    <entry file="jar://D:/ruanjian/JDK/jdk/src.zip!/java/lang/Number.java" />
+    <entry file="jar://D:/ruanjian/JDK/jdk/src.zip!/java/math/BigDecimal.java" />
+    <entry file="jar://D:/ruanjian/JDK/jdk/src.zip!/java/math/BigInteger.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/dto/OrderDTO.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/repository/OrderDetailRepository.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/repository/OrderMasterRepository.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/service/impl/OrderServiceImpl.java" />
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.0.BUILD-SNAPSHOT/spring-boot-dependencies-2.0.0.BUILD-SNAPSHOT.pom" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/controller/OrderController.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/controller/TestCon.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/java/com/demo/spring/orderv2/OrderV2Application.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-center/src/main/java/com/demo/configcenter/ConfigCenterApplication.java" />
+    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/application-y.yml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class" />
+    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/demo/spring/eurekaclient/controller/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/config-center/README.md" />
+    <entry file="file://$PROJECT_DIR$/config-center/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/demo/spring/eurekaclient/EurekaClientApplication.java" />
+    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/bootstrap.yml" />
+    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/demo/spring/eurekaclient/config/PeopleConfig.java" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/resources/application-t.yml" />
+    <entry file="file://$PROJECT_DIR$/order-v2/src/main/resources/bootstrap.yml" />
+    <entry file="file://$PROJECT_DIR$/config-center/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/eureka-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-amqp/2.0.0.M3/spring-boot-starter-amqp-2.0.0.M3.pom" />
+    <entry file="file://$PROJECT_DIR$/mq-use/src/main/java/com/demo/mquse/MqUseApplication.java" />
+    <entry file="file://$PROJECT_DIR$/mq-use/src/test/java/com/demo/mquse/MqUseApplicationTests.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+    <entry file="file://$PROJECT_DIR$/mq-use/src/test/java/com/demo/mquse/message/MqReceiverTest.java" />
+    <entry file="file://$PROJECT_DIR$/mq-use/src/main/java/com/demo/mquse/message/MqReceiver.java" />
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/demo/spring/eureka/EurekaApplication.java" />
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/mq-use/src/main/resources/bootstrap.yml" />
+    <entry file="file://$PROJECT_DIR$/product-service/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/ProductServiceApplication.java" />
+    <entry file="file://$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/controller/ProductController.java" />
+    <entry file="file://$PROJECT_DIR$/product-service/src/main/java/com/demo/spring/productservice/controller/ServerController.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/demo/spring/order/controller/ClientController.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/demo/spring/order/config/RestTemplateConfig.java" />
+    <entry file="file://$PROJECT_DIR$/eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" selection-start-line="44" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mq-use/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="258">
+            <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32686415" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

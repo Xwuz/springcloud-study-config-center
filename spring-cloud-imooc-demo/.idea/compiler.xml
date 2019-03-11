@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-center" />
+        <module name="eureka" />
+        <module name="eureka-client" />
+        <module name="mq-use" />
+        <module name="order" />
+        <module name="order-v2" />
+        <module name="product-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-center" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="mq-use" target="1.8" />
+      <module name="order" target="1.8" />
+      <module name="order-2" target="1.8" />
+      <module name="order-v2" target="1.8" />
+      <module name="product-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
